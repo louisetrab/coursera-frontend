@@ -1,0 +1,44 @@
+h1{
+margin-top: 0;
+color: black;
+
+}
+
+#header-nav{
+
+	background-color: #aaaaaa;
+}
+
+hr{
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#nav-list{
+
+	background-color: #bbbbbb;
+}
+
+.row > div{
+
+	background-color: #aaaaaa;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+}
+
+.row{
+
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;	
+}
+
+@media (max-width: 720px){
+
+	.row {margin-left: 50px;
+				margin-right: 50px;
+}
+
+}
